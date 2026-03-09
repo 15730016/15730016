@@ -9,5 +9,6 @@ Tech Stack
 - JavaScript / jQuery
 - Flutter
 
-Portfolio
-https://sint.vn
+Contact
+Email: nhamthiensi@gmail.com
+Portfolio: https://sint.vn
