@@ -10,5 +10,5 @@ Tech Stack
 - Flutter
 
 Contact
-Email: nhamthiensi@gmail.com
-Portfolio: https://sint.vn
+- Email: nhamthiensi@gmail.com
+- Portfolio: https://sint.vn
