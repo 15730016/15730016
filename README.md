@@ -1,16 +1,13 @@
-## Hi there 👋
+## Nhâm Thiện Sĩ
 
-<!--
-**15730016/15730016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Fullstack Developer – 8+ Years Experience
 
-Here are some ideas to get you started:
+Tech Stack
+- PHP Laravel
+- MySQL / MariaDB
+- REST API
+- JavaScript / jQuery
+- Flutter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Portfolio
+https://sint.vn
